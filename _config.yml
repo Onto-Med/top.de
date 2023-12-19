@@ -1,0 +1,37 @@
+permalink:        pretty
+# Setup
+title:            TOP
+tagline:          'TOP Research Group'
+description:      ''
+#description:      '...By <a href="https://imise.uni-leipzig.de/" target="_blank">IMISE</a>'
+url:              https://onto-med.github.io/top.de
+baseurl:          ''
+
+author:
+  name:           'Konrad Höffner'
+  url:            https://github.com/KonradHoeffner
+
+# Custom vars
+
+# will move to its own org in the future
+github:
+  org: https://github.com/Onto-Med
+
+socialmedia:
+  twitter: https://twitter.com/hitontology
+
+internal:
+  slack:     https://app.slack.com/client/TUZMF0S80/C02CY2K3XFE
+  googledrive: https://drive.google.com/drive/folders/1hgJ3sNHkQTVOtIK9dt6kTglyUH8EUEyE
+
+links:
+  imise:      https://imise.uni-leipzig.de/
+  alex:       https://www.imise.uni-leipzig.de/Mitarbeiter/Alexandr_Uciteli
+  christoph:  https://www.imise.uni-leipzig.de/Mitarbeiter/Christoph_Beger
+  franz:      https://www.imise.uni-leipzig.de/Mitarbeiter/Franz_Matthies
+  konrad:     https://www.imise.uni-leipzig.de/Mitarbeiter/Konrad_Hoeffner
+  ralph:      https://www.imise.uni-leipzig.de/Mitarbeiter/Ralph_Michael
+
+relative_links:
+  enabled:     true
+  collections: true
