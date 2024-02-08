@@ -7,10 +7,9 @@ order: 31
 <link rel="stylesheet" href="public/css/collapse.css">
 ## Papers
 
-<p align="center"><object width="100%" height="630" data="public/paper_hitolod.pdf" frameborder="0" allowfullscreen></object></p>
+<p align="center"><object width="100%" height="630" data="public/papers/SHTI-307-SHTI230710.pdf" frameborder="0" allowfullscreen></object></p>
 * Matthies F, Beger C, Schäfermeier R, Uciteli A
 **Concept Graphs: A Novel Approach for Textual Analysis of Medical Documents**
-URL: <https://ebooks.iospress.nl/doi/10.3233/SHTI230710>
 doi: [10.3233/SHTI230710](http://dx.doi.org/10.3233/SHTI230710)
 PMID: [37697851](https://www.ncbi.nlm.nih.gov/pubmed/37697851)
 GitHub: [Onto-Med/concept-graphs](https://github.com/Onto-Med/concept-graphs)
