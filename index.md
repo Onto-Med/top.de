@@ -4,14 +4,15 @@ title: Home
 order: 5
 ---
 
-Das Ziel des Vorhabens ist die Entwicklung und Anwendung eines Ontologie-basierten Rahmenwerks für komplexe Patienten Phänotypen (TOP Framework).
-Das Vorhaben baut auf den in den Datenintegrationszentren der Medizininformatik-Initiative (MII) verfügbaren strukturierten medizinischen Daten auf.
-Das Konzept wird entlang der Use Cases des SMITH Konsortiums entwickelt.
-Es bleibt aber nicht auf diese beschränkt und soll später für viele Use Cases der MII Konsortien sowie vergleichbare Projekte im medizinischen Bereich anwendbar sein.
-Dazu wird das Konzept in einer modularen Web-Anwendung implementiert, die verschiedene Software-Werkzeuge und Services zur algorithmischen Phänotypisierung vereint.
-Diese Werkzeuge und Services stellen Datenelemente und Phänotyp-Algorithmen in standardisierten Repositorien bereit und bieten Schnittstellen zur Anbindung externer Daten Repositorien und zum Import existierender Metadaten.
-Das Framework wird medizinische bzw.
-klinische Experten (medizinisches Personal, Biometriker, Studienassistenten, Statistiker, etc.) dabei unterstützen, die für weiterführende Analysen bzw. Studien relevanten Patienten und Probanden effizient zu identifizieren.
-Es ermöglicht, die für diese Personengruppe relevanten Daten am Datenintegrationszentrum zu selektieren und für nachfolgende Schritte bereitzustellen.
-Hierdurch können die Daten analysiert und auf deren Basis Derivate, Scores und weitere Klassifizierungen berechnet werden.
-Die spezifizierten Metadaten und Phänotyp Algorithmen/Modelle werden in einem Webportal (Repository) veröffentlicht und durch standardisierte Schnittstellen zugreifbar gemacht.
+<img href="public/top.png" alt="Banner explaining the TOP-Framework" />
+
+The goal of the project is the development and application of an ontology-based framework for complex patient phenotypes (TOP Framework).
+The project is based on the structured medical data of the data integration centres of the [Medical Informatics Initiative (MII)](https://www.medizininformatik-initiative.de/en/consortia/data-integration-centres).
+The concept is developed alongside the use cases of the [SMITH Consortium](https://www.smith.care),
+though it is not limited to these and is to be applicable for many use cases of the MII Consortia and comparable projects in the medical domain in the future.
+For this, a concept of a modular web application will be implemented, which combines many software tools and services for algorithmical phenotyping.
+These tools and services provide data entities and phenotype-algorithms in standardized repositories and feature interfaces for linking external data repositories and importing existing metadata. 
+The framework wants to support medical and clinical experts (medical staff, biometricians, student assistants, statisticians, etc.) in identifying patients and proposoti relevant for further analyses and studies.
+It allows to select the data relevant for this group at a data integration centre and provide it for following steps.
+By this, the data can be analyzed to calculate derivatives, scores and further classfications.
+The specified metadata and phenotype algorithms/models will be published in a web repository and will be made accessible yb standardised interfaces.
