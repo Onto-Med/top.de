@@ -68,3 +68,12 @@
   align-items: center;
   justify-content: center;
 }
+
+/* TOP Color scheme */
+.theme-base-top .sidebar {
+  background-color: #6e8fb1;
+}
+.theme-base-top .content a,
+.theme-base-top .related-posts li a:hover {
+  color: #6e8fb1;
+}
