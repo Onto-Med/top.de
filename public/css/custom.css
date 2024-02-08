@@ -12,8 +12,8 @@
 }
 
 @media screen and (min-width: 48em) {
-  #hito-logo {
-    background-image: url("../hito.svg");
+  #logo {
+    background-image: url("../logo.svg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;

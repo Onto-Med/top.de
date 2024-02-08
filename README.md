@@ -1,4 +1,4 @@
-<img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/48351518?s=200&v=4" alt="TOP">
+<img align="right" width="200" height="200" src="public/logo.svg" alt="TOP">
 
 # TOP Website
 

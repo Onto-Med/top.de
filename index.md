@@ -4,7 +4,7 @@ title: Home
 order: 5
 ---
 
-<img href="public/top.png" alt="Banner explaining the TOP-Framework" />
+![Terminology- and Ontology-based Phenotyping (TOP) Framework Overview: TOP enables phenotypic queries on patient or study database and ontology-based document search for medical documents.](public/framework_overview.svg)
 
 The goal of the project is the development and application of an ontology-based framework for complex patient phenotypes (TOP Framework).
 The project is based on the structured medical data of the data integration centres of the [Medical Informatics Initiative (MII)](https://www.medizininformatik-initiative.de/en/consortia/data-integration-centres).
