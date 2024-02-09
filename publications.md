@@ -9,7 +9,8 @@ order: 31
 
 ### 2020
 <!-- PAPER 1 -->
-<p align="center"><object width="100%" height="630" data="public/papers/SHTI-307-SHTI230710.pdf" frameborder="0" allowfullscreen></object></p>
+<a id="s13326-020-00230-0" />
+<p align="center"><object width="100%" height="630" data="public/papers/s13326-020-00230-0.pdf" frameborder="0" allowfullscreen></object></p>
 * Uciteli A and Beger C and Kirsten T and Meineke F A and Herre H*
 **Ontological representation, classification and data-driven computing of phenotypes**
 DOI: [10.1186/s13326-020-00230-0](https://doi.org/10.1186/s13326-020-00230-0)
@@ -39,6 +40,7 @@ PMCID: [PMC7751121](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7751121/)
 
 ### 2021
 <!-- PAPER 2 -->
+<a id="mibe000219" />
 <p align="center"><object width="100%" height="630" data="public/papers/mibe000219.pdf" frameborder="0" allowfullscreen></object></p>
 *Uciteli A and Beger C and Wagner J and Kirsten T and Meineke F A and St&auml;ubert S and L&ouml;be M and Herre H*
 **Ontological modelling and FHIR Search based representation of basic eligibility criteria**
@@ -67,6 +69,7 @@ PMID: [37697851](https://nbn-resolving.org/urn:nbn:de:0183-mibe0002199)
 
 ### 2022
 <!-- PAPER 3 -->
+<a id="app12105214" />
 <p align="center"><object width="100%" height="630" data="public/papers/app12105214.pdf" frameborder="0" allowfullscreen></object></p>
 *Beger C and Matthies F and Schäfermeier R and Kirsten T and Herre H and Uciteli A*
 **Towards an Ontology-Based Phenotypic Query Model**
@@ -98,7 +101,8 @@ DOI: [10.3390/app12105214](http://doi.org/10.3390/app12105214)
 
 ### 2023
 <!-- PAPER 4 -->
-<p align="center"><object width="100%" height="630" data="public/papers/SHTI-307-SHTI230710.pdf" frameborder="0" allowfullscreen></object></p>
+<a id="SHTI230710" />
+<p align="center"><object width="100%" height="630" data="public/papers/SHTI230710.pdf" frameborder="0" allowfullscreen></object></p>
 *Matthies F, Beger C, Schäfermeier R, Uciteli A*
 **Concept Graphs: A Novel Approach for Textual Analysis of Medical Documents**
 DOI: [10.3233/SHTI230710](http://dx.doi.org/10.3233/SHTI230710)
