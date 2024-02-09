@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: nopage
 title: Projects
 order: 30
 ---
