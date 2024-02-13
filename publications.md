@@ -8,6 +8,36 @@ order: 31
 ## Papers
 
 ### 2023
+
+<!-- PAPER 6 -->
+<a id="shti230695" />
+<p align="center"><object width="100%" height="630" data="public/papers/shti230695.pdf" frameborder="0" allowfullscreen></object></p>
+*Beger C, Boehmer AM, Mussawy B, Redeker L, Matthies F, Schäfermeier R, Härdtlein A, Dreischulte T, Neumann D, Uciteli A*
+**Modelling Adverse Events with the TOP Phenotyping Framework**
+DOI: [10.3233/shti230695](https://dx.doi.org/10.3233/shti230695)
+PMID: [37697839](https://www.ncbi.nlm.nih.gov/pubmed/37697839)
+
+<p align="center"><a href="https://dx.doi.org/10.3233/shti230695">Link</a></p>
+<div class="wrap-collapsible">
+  <input id="collapsible_modellingadverse" class="toggle" type="checkbox">
+  <label for="collapsible_modellingadverse" class="lbl-toggle">Open BibTeX</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        @incollection{modellingadverse,<br />
+        title={Modelling Adverse Events with the TOP Phenotyping Framework},<br />
+        author={Beger, Christoph and Boehmer, Anna Maria and Mussawy, Beate and Redeker, Louisa and Matthies, Franz and Sch{\"a}fermeier, Ralph and H{\"a}rdtlein, Annette and Dreischulte, Tobias and Neumann, Daniel and Uciteli, Alexandr},<br />
+        booktitle={German Medical Data Sciences 2023---Science. Close to People.: Proceedings of the 68th Annual Meeting of the German Association of Medical Informatics, Biometry, and Epidemiology EV (gmds) 2023 in Heilbronn, Germany},<br />
+        volume={307},<br />
+        pages={69--77},<br />
+        year={2023},<br />
+        publisher={IOS Press}<br />
+        }
+      </p>
+    </div>
+  </div>
+</div>
+
 <!-- PAPER 5 -->
 <a id="mibe000256" />
 <p align="center"><object width="100%" height="630" data="public/papers/mibe000256.pdf" frameborder="0" allowfullscreen></object></p>
@@ -15,10 +45,10 @@ order: 31
 **Model-driven execution of phenotype algorithms – introduction of the Terminology - and Ontology-based Phenotyping Framework**
 DOI: [10.3205/mibe000256](https://dx.doi.org/10.3205/mibe000256)
 
-<p align="center"><a href="https://dx.doi.org/10.3205/mibe000256)">Link</a></p>
+<p align="center"><a href="https://dx.doi.org/10.3205/mibe000256">Link</a></p>
 <div class="wrap-collapsible">
-  <input id="collapsible_topconceptgraphs" class="toggle" type="checkbox">
-  <label for="collapsible_topconceptgraphs" class="lbl-toggle">Open BibTeX</label>
+  <input id="collapsible_modeldriven" class="toggle" type="checkbox">
+  <label for="collapsible_modeldriven" class="lbl-toggle">Open BibTeX</label>
   <div class="collapsible-content">
     <div class="content-inner">
       <p>
@@ -36,7 +66,7 @@ DOI: [10.3205/mibe000256](https://dx.doi.org/10.3205/mibe000256)
 
 <!-- PAPER 4 -->
 <a id="SHTI230710" />
-<p align="center"><object width="100%" height="630" data="public/papers/SHTI230710.pdf" frameborder="0" allowfullscreen></object></p>
+<p align="center"><object width="100%" height="630" data="public/papers/shti230710.pdf" frameborder="0" allowfullscreen></object></p>
 *Matthies F, Beger C, Schäfermeier R, Uciteli A*
 **Concept Graphs: A Novel Approach for Textual Analysis of Medical Documents**
 DOI: [10.3233/SHTI230710](https://dx.doi.org/10.3233/SHTI230710)
