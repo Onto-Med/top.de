@@ -122,5 +122,5 @@ Bundesministerium für Bildung und Forschung (BMBF).
 Text vorher erschienen in IMISE-Broschüre/text originally published in IMISE-brochure<br/>
 *30 Jahre Institut für medizinische Informatik, Statistik und Epidemiologie und seine Wissenschaftsfamilie*, S.77ff.
 
-<a href="https://www.imise.uni-leipzig.de" target="_blank"><img src="public/imise-logo.svg" alt="IMISE Logo" style="float:left;height:7em;"/></a>
-<a href="https://www.bmbf.de/" target="_blank"><img src="public/bmbf-logo.svg" alt="BMBF Logo" style="float:right;height:7em;"/></a>
+<a href="https://www.imise.uni-leipzig.de" target="_blank"><img src="public/imise-logo.svg" alt="IMISE Logo" style="float:left;height:6em;"/></a>
+<a href="https://www.bmbf.de/" target="_blank"><img src="public/bmbf-logo.svg" alt="BMBF Logo" style="float:right;height:8em;"/></a>
