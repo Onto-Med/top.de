@@ -8,6 +8,32 @@ order: 31
 ## Papers
 
 ### 2023
+<!-- PAPER 5 -->
+<a id="mibe000256" />
+<p align="center"><object width="100%" height="630" data="public/papers/mibe000256.pdf" frameborder="0" allowfullscreen></object></p>
+*Beger C, Matthies F, Schäfermeier R, Uciteli A*
+**Model-driven execution of phenotype algorithms – introduction of the Terminology - and Ontology-based Phenotyping Framework**
+DOI: [10.3205/mibe000256](https://dx.doi.org/10.3205/mibe000256)
+
+<p align="center"><a href="https://dx.doi.org/10.3205/mibe000256)">Link</a></p>
+<div class="wrap-collapsible">
+  <input id="collapsible_topconceptgraphs" class="toggle" type="checkbox">
+  <label for="collapsible_topconceptgraphs" class="lbl-toggle">Open BibTeX</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        @article{modeldriven,<br />
+        title={Model-driven execution of phenotype algorithms --- introduction of the Terminology --- and Ontology-based Phenotyping Framework},<br />
+        author={Beger, Christoph and Matthies, Franz and Sch{\"a}fermeier, Ralph and Uciteli, Alexandr},<br />
+        journal={GMS Medical Informatics, Biometry and Epidemiology},<br />
+        volume={19},<br />
+        year={2023},<br />
+        }
+      </p>
+    </div>
+  </div>
+</div>
+
 <!-- PAPER 4 -->
 <a id="SHTI230710" />
 <p align="center"><object width="100%" height="630" data="public/papers/SHTI230710.pdf" frameborder="0" allowfullscreen></object></p>
