@@ -7,7 +7,7 @@
 .teamGrid {
   display: grid;
   align-items: center;
-  grid-template-columns: 6em 12em 10em;
+  grid-template-columns: 6em 12em;
   grid-gap: 1em;
 }
 
