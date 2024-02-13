@@ -114,9 +114,13 @@ Für SQL und FHIR Search haben wir generische Java-basierte Adapter entwickelt, 
 Die Abfrageergebnisse werden für die Auswertung von Ausdrücken der zusammengesetzten Phänotypen genutzt.
 
 ## ACKNOWLEDGEMENT
-gefördert durch das Bundesministerium für Bildung und Forschung (BMBF)
+Gefördert durch das
+<a href="https://www.bmbf.de/" target="_blank">
+Bundesministerium für Bildung und Forschung (BMBF).
+</a>
 
-
-[![IMISE Logo](public/imise-logo.svg)](https://www.imise.uni-leipzig.de)
-Text vorher erschienen in IMISE-Broschüre/text originally published in IMISE-brochure
+Text vorher erschienen in IMISE-Broschüre/text originally published in IMISE-brochure<br/>
 *30 Jahre Institut für medizinische Informatik, Statistik und Epidemiologie und seine Wissenschaftsfamilie*, S.77ff.
+
+<a href="https://www.imise.uni-leipzig.de" target="_blank"><img src="public/imise-logo.svg" alt="IMISE Logo" style="float:left;height:7em;"/></a>
+<a href="https://www.bmbf.de/" target="_blank"><img src="public/bmbf-logo.svg" alt="BMBF Logo" style="float:right;height:7em;"/></a>
