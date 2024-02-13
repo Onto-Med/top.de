@@ -39,7 +39,7 @@ DOI: [10.3205/mibe000256](https://dx.doi.org/10.3205/mibe000256)
 <p align="center"><object width="100%" height="630" data="public/papers/SHTI230710.pdf" frameborder="0" allowfullscreen></object></p>
 *Matthies F, Beger C, Schäfermeier R, Uciteli A*
 **Concept Graphs: A Novel Approach for Textual Analysis of Medical Documents**
-DOI: [10.3233/SHTI230710](http://dx.doi.org/10.3233/SHTI230710)
+DOI: [10.3233/SHTI230710](https://dx.doi.org/10.3233/SHTI230710)
 PMID: [37697851](https://www.ncbi.nlm.nih.gov/pubmed/37697851)
 GitHub: [Onto-Med/concept-graphs](https://github.com/Onto-Med/concept-graphs)
 
@@ -53,7 +53,7 @@ GitHub: [Onto-Med/concept-graphs](https://github.com/Onto-Med/concept-graphs)
         @inproceedings{topconceptgraphs,<br />
         title={Concept Graphs: A Novel Approach for Textual Analysis of Medical Documents},<br />
         author={Matthies, Franz and Beger, Christoph and Sch{\"a}fermeier, Ralph and Uciteli, Alexandr},<br />
-        booktitle={German Medical Data Sciences 2023—Science. Close to People.: Proceedings of the 68th Annual Meeting of the German Association of Medical Informatics, Biometry, and Epidemiology EV (gmds) 2023 in Heilbronn, Germany},<br />
+        booktitle={German Medical Data Sciences 2023---Science. Close to People.: Proceedings of the 68th Annual Meeting of the German Association of Medical Informatics, Biometry, and Epidemiology EV (gmds) 2023 in Heilbronn, Germany},<br />
         volume={307},<br />
         pages={172-179},<br />
         year={2023},<br />
@@ -70,7 +70,7 @@ GitHub: [Onto-Med/concept-graphs](https://github.com/Onto-Med/concept-graphs)
 <p align="center"><object width="100%" height="630" data="public/papers/app12105214.pdf" frameborder="0" allowfullscreen></object></p>
 *Beger C and Matthies F and Schäfermeier R and Kirsten T and Herre H and Uciteli A*
 **Towards an Ontology-Based Phenotypic Query Model**
-DOI: [10.3390/app12105214](http://doi.org/10.3390/app12105214)
+DOI: [10.3390/app12105214](https://doi.org/10.3390/app12105214)
 
 <p align="center"><a href="https://www.mdpi.com/2076-3417/12/10/5214">Link</a></p>
 <div class="wrap-collapsible">
@@ -103,9 +103,8 @@ DOI: [10.3390/app12105214](http://doi.org/10.3390/app12105214)
 *Uciteli A and Beger C and Wagner J and Kirsten T and Meineke F A and St&auml;ubert S and L&ouml;be M and Herre H*
 **Ontological modelling and FHIR Search based representation of basic eligibility criteria**
 DOI: [10.3205/mibe000219](https://dx.doi.org/10.3205/mibe000219)
-PMID: [37697851](https://nbn-resolving.org/urn:nbn:de:0183-mibe0002199)
 
-<p align="center"><a href="http://www.egms.de/static/en/journals/mibe/2021-17/mibe000219.shtml">Link</a></p>
+<p align="center"><a href="https://www.egms.de/static/en/journals/mibe/2021-17/mibe000219.shtml">Link</a></p>
 <div class="wrap-collapsible">
   <input id="collapsible_topsearch" class="toggle" type="checkbox">
   <label for="collapsible_topsearch" class="lbl-toggle">Open BibTeX</label>
@@ -115,7 +114,7 @@ PMID: [37697851](https://nbn-resolving.org/urn:nbn:de:0183-mibe0002199)
       @article{topsearch,<br />
         title={Ontological modelling and FHIR Search based representation of basic eligibility criteria.},<br />
         author={Uciteli, Alexandr and Beger, Christoph and Wagner, Jonas and Kirsten, Toralf and Meineke, Frank A and St{\"a}ubert, Sebastian and L{\"o}be, Matthias and Herre, Heinrich},<br />
-        journal={GMS Medizinische Informatik, Biometrie und Epidemiologie},<br />
+        journal={GMS Medical Informatics, Biometry and Epidemiology},<br />
         volume={17},<br />
         number={2},<br />
         year={2021}<br />
@@ -133,7 +132,7 @@ PMID: [37697851](https://nbn-resolving.org/urn:nbn:de:0183-mibe0002199)
 **Ontological representation, classification and data-driven computing of phenotypes**
 DOI: [10.1186/s13326-020-00230-0](https://doi.org/10.1186/s13326-020-00230-0)
 PMID: [33349245](https://www.ncbi.nlm.nih.gov/pubmed/33349245)
-PMCID: [PMC7751121](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7751121/)
+PMCID: [PMC7751121](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7751121/)
 
 <p align="center"><a href="https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-020-00230-0">Link</a></p>
 <div class="wrap-collapsible">
