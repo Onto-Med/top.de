@@ -26,7 +26,7 @@ List your roles here<br>
 <div class="inbox">
 <a href="{{ site.links.christoph }}">Christoph Beger</a><br>
 Leipzig, Germany<br>
-List your roles here<br>
+Ontologist, Programmer<br>
 </div>
 
 <div class="portrait">
