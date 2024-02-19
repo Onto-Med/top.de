@@ -1,5 +1,6 @@
-.teamGrid > img {
-  height: 4.5em;
+.portrait > img {
+  border-radius: 50%;
+  height: 5em;
   height: 5em;
   justify-self: center;
 }
@@ -76,4 +77,9 @@
 .theme-base-top .content a,
 .theme-base-top .related-posts li a:hover {
   color: #6e8fb1;
+}
+
+.copyright {
+  font-size:50%;
+  color:#999999;
 }
