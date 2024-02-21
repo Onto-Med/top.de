@@ -1,14 +1,14 @@
 .portrait > img {
   border-radius: 50%;
-  height: 5em;
-  height: 5em;
+  height: 8em;
+  width: 8em;
   justify-self: center;
 }
 
 .teamGrid {
   display: grid;
   align-items: center;
-  grid-template-columns: 6em 12em;
+  grid-template-columns: 8em 16em;
   grid-gap: 1em;
 }
 
@@ -82,4 +82,8 @@
 .copyright {
   font-size:50%;
   color:#999999;
+}
+
+.group-photo {
+  margin-top: 5em;
 }
