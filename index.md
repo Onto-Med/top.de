@@ -16,7 +16,7 @@ The junior research group is working on the development of an ontology-based fra
 The project is based on the structured medical data of the [data integration centres](https://www.medizininformatik-initiative.de/en/consortia/data-integration-centres) of the Medical Informatics Initiative.
 The models and algorithms developed are published in a web portal and made available via standardized interfaces and formats.
 
-## OBJECTIVES OF THE JUNIOR RESEARCH GROUP WITHIN THE [MEDICAL INFORMATICS INITIATIVE (MII)](https://www.medizininformatik-initiative.de/de/)
+## OBJECTIVES OF THE JUNIOR RESEARCH GROUP WITHIN THE [MEDICAL INFORMATICS INITIATIVE (MII)](https://www.medizininformatik-initiative.de/en/)
 The aim of the medical informatics funding concept is to support medical research
 and the improvement of patient care through IT solutions.
 The exchange and use of data from patient care, clinical and biomedical research across the boundaries of institutions and locations is to be made available.
@@ -37,7 +37,7 @@ This can normally only be done by IT specialists, but requires close collaborati
 With this in mind, the MII junior research group *Terminology- and Ontology-based Phenotyping* (TOP) has set itself the goal of
 implementing an easily accessible ontology-based framework (TOP Framework) for modelling and executing phenotype algorithms and making it available to the community.
 The concept is being developed adjacent but not limited to the use cases in focus of the SMITH consortium
-and will later be applicable to other use cases of the [MII consortia](https://www.medizininformatik-initiative.de/de/konsortien)
+and will later be applicable to other use cases of the [MII consortia](https://www.medizininformatik-initiative.de/en/node/5)
 and comparable projects in the medical field.
 The framework will be implemented as a modular web application that combines various software tools and services for algorithmic phenotyping.
 
@@ -92,8 +92,8 @@ The query results are used to evaluate expressions of the composite phenotypes.
 
 ## ACKNOWLEDGEMENT
 Funded by the
-<a href="https://www.bmbf.de/" target="_blank">
-Bundesministerium für Bildung und Forschung (BMBF).
+<a href="https://www.bmbf.de/bmbf/en/" target="_blank">
+Federal Ministry of Education and Research (BMBF).
 </a>
 
 ---
