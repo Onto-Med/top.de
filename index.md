@@ -4,7 +4,7 @@ title: Home
 order: 5
 ---
 
-![Terminology- and Ontology-based Phenotyping (TOP) Framework Overview: TOP enables phenotypic queries on patient or study database and ontology-based document search for medical documents.](public/framework_overview.svg)
+![Terminology- and Ontology-based Phenotyping (TOP) Framework Overview: TOP enables phenotypic queries on patient or study database and ontology-based document search for medical documents.](public/top-framework-overview.svg)
 
 [Deutsche Version unten.](#nachwuchsgruppe-top)
 

@@ -14,7 +14,7 @@
 
 @media screen and (min-width: 48em) {
   #logo {
-    background-image: url("../logo.svg");
+    background-image: url("../top-logo-white.svg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
