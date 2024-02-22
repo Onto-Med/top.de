@@ -12,7 +12,7 @@ order: 80
 <div class="inbox">
 <a href="{{ site.links.alex}}">Alexandr Uciteli</a><br>
 Leipzig, Germany<br>
-List your roles here<br>
+Group Leader, Ontologist<br>
 </div>
 </div>
 
@@ -34,7 +34,7 @@ Ontologist, Programmer<br>
 <div class="inbox">
 <a href="{{ site.links.franz}}">Franz Matthies</a><br>
 Leipzig, Germany<br>
-List your roles here<br>
+Programmer<br>
 </div>
 
 <div class="portrait">
@@ -43,7 +43,7 @@ List your roles here<br>
 <div class="inbox">
 <a href="{{ site.links.ralph}}">Ralph Schäfermeier</a><br>
 Leipzig, Germany<br>
-List your roles here<br>
+Programmer<br>
 </div>
 
 <div class="portrait">
