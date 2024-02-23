@@ -1,4 +1,4 @@
-<img align="right" width="200" height="200" src="public/logo.svg" alt="TOP">
+<img align="right" width="200" height="200" src="public/top-logo-white.svg" alt="TOP">
 
 # TOP Website
 
