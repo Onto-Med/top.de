@@ -7,9 +7,110 @@ order: 31
 <link rel="stylesheet" href="public/css/collapse.css">
 ## Papers
 
+### 2024
+
+<!-- PAPER 9 -->
+<!-- proceedings subtitle: Health – Thinking, Researching and Acting Together. Proceedings of the 69th Annual Meeting of the German Association of Medical Informatics, Biometry, and Epidemiology e.V. (gmds) 2024 in Dresden, Germany -->
+<!-- Gesundheit – gemeinsam. Kooperationstagung der Deutschen Gesellschaft für Medizinische Informatik, Biometrie und Epidemiologie (GMDS), Deutschen Gesellschaft für Sozialmedizin und Prävention (DGSMP), Deutschen Gesellschaft für Epidemiologie (DGEpi), Deutschen Gesellschaft für Medizinische Soziologie (DGMS) und der Deutschen Gesellschaft für Public Health (DGPH). Dresden, 08.-13.09.2024. Düsseldorf: German Medical Science GMS Publishing House; 2024. DocAbstr. 980 -->
+<a id="shti240855" />
+<p align="center"><object width="100%" height="630" data="public/papers/shti240855.pdf" frameborder="0" allowfullscreen></object></p>
+*Schäfermeier R, Beger C, Matthies F, Höffner K, Uciteli A*
+**Tracking Changes for Inter-Version Interoperability in Heterogeneous Evolving Medical Terminologies**
+DOI: [10.3233/shti240855](https://dx.doi.org/10.3233/shti240855)
+PMID: [39234722](https://www.ncbi.nlm.nih.gov/pubmed/39234722)
+
+<p align="center"><a href="https://dx.doi.org/10.3233/shti240855">Link</a></p>
+<div class="wrap-collapsible">
+  <input id="collapsible_trackingchanges" class="toggle" type="checkbox">
+  <label for="collapsible_trackingchanges" class="lbl-toggle">Open BibTeX</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        @incollection{trackingchanges,<br />
+        title={Tracking Changes for Inter-Version Interoperability in Heterogeneous Evolving Medical Terminologies},<br />
+        author={Sch{\"a}fermeier, Ralph and Beger, Christoph and Matthies, Franz and H{\"o}ffner, Konrad and Uciteli, Alexandr},<br />
+        doi={10.3233/shti240855},<br />
+        booktitle={German Medical Data Sciences 2024},<br />
+        editor={Rainer Röhrig and Niels Grabe and Ursula Hertha Hübner and Klaus Jung and Ulrich Sax and Carsten Oliver Schmidt and Martin Sedlmayr and Antonia Zapf},<br />
+        organization={German Association of Medical Informatics, Biometry, and Epidemiology e.V. (GMDS)},<br />
+        address={Dresden, Germany},<br />
+        series={Studies in Health Technology and Informatics},
+        volume={317},<br />
+        pages={190--199},<br />
+        year={2024},<br />
+        publisher={IOS Press}<br />
+        }
+      </p>
+    </div>
+  </div>
+</div>
+
+<!-- PAPER 8 -->
+<!-- proceedings subtitle: Health – Thinking, Researching and Acting Together. Proceedings of the 69th Annual Meeting of the German Association of Medical Informatics, Biometry, and Epidemiology e.V. (gmds) 2024 in Dresden, Germany -->
+<a id="shti240854" />
+<p align="center"><object width="100%" height="630" data="public/papers/shti240854.pdf" frameborder="0" allowfullscreen></object></p>
+*Matthies F, Beger C, Schäfermeier R, Höffner K, Uciteli A*
+**Extending the TOP Framework with an Ontology-Based Text Search Component**
+DOI: [10.3233/shti240854](https://dx.doi.org/10.3233/shti240854)
+PMID: [39234721](https://www.ncbi.nlm.nih.gov/pubmed/39234721)
+
+<p align="center"><a href="https://dx.doi.org/10.3233/shti240854">Link</a></p>
+<div class="wrap-collapsible">
+  <input id="collapsible_extendingtop" class="toggle" type="checkbox">
+  <label for="collapsible_extendingtop" class="lbl-toggle">Open BibTeX</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        @incollection{extendingtop,<br />
+        title={Extending the {TOP} Framework with an Ontology-Based Text Search Component},<br />
+        author={Matthies, Franz and Beger, Christoph and Sch{\"a}fermeier, Ralph and and H{\"o}ffner, Konrad and Uciteli, Alexandr},<br />
+        doi={10.3233/shti240854},<br />
+        booktitle={German Medical Data Sciences 2024},<br />
+        editor={Rainer Röhrig and Niels Grabe and Ursula Hertha Hübner and Klaus Jung and Ulrich Sax and Carsten Oliver Schmidt and Martin Sedlmayr and Antonia Zapf},<br />
+        organization={German Association of Medical Informatics, Biometry, and Epidemiology e.V. (GMDS)},<br />
+        address={Dresden, Germany},<br />
+        series={Studies in Health Technology and Informatics},
+        volume={317},<br />
+        pages={180--189},<br />
+        year={2024},<br />
+        publisher={IOS Press}<br />
+        }
+      </p>
+    </div>
+  </div>
+</div>
+
+<!-- PAPER 7 -->
+<!-- Abstract, not in the actual proceedings. Has a DOI but no PMID. -->
+<a id="24gmds114" />
+<!--<p align="center"><object width="100%" height="630" data="public/papers/24gmds114.pdf" frameborder="0" allowfullscreen></object></p>-->
+*Beger C, Eberl M, Dietz Y, Matthies F, Schäfermeier R, Höffner K, Reusche M, Uciteli A*
+**Improving the LIFE Research Data Request Workflow with the TOP Phenotyping Framework**
+DOI: [10.3205/24gmds114](https://dx.doi.org/10.3205/24gmds114)
+
+<p align="center"><a href="https://dx.doi.org/10.3205/24gmds114">Link</a></p>
+<div class="wrap-collapsible">
+  <input id="collapsible_improvinglife" class="toggle" type="checkbox">
+  <label for="collapsible_improvinglife" class="lbl-toggle">Open BibTeX</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        @misc{improvinglife,<br />
+        title={Improving the {LIFE} Research Data Request Workflow with the {TOP} Phenotyping Framework},<br />
+        author={Beger, Christoph and Eberl, Melanie and Dietz, Yvonne and Matthies, Franz and Sch{\"a}fermeier, Ralph and Reusche, Matthias and H{\"o}ffner, Konrad and Uciteli, Alexandr},<br />
+        doi={10.3205/24gmds114},<br />
+        note={Abstract},<br />
+        year={2024},<br />
+        }
+      </p>
+    </div>
+  </div>
+</div>
+
 ### 2023
 
 <!-- PAPER 6 -->
+<!-- proceedings subtitle: Proceedings of the 68th Annual Meeting of the German Association of Medical Informatics, Biometry, and Epidemiology e.V. (gmds) 2023 in Heilbronn, Germany -->
 <a id="shti230695" />
 <p align="center"><object width="100%" height="630" data="public/papers/shti230695.pdf" frameborder="0" allowfullscreen></object></p>
 *Beger C, Boehmer AM, Mussawy B, Redeker L, Matthies F, Schäfermeier R, Härdtlein A, Dreischulte T, Neumann D, Uciteli A*
@@ -25,9 +126,14 @@ PMID: [37697839](https://www.ncbi.nlm.nih.gov/pubmed/37697839)
     <div class="content-inner">
       <p>
         @incollection{modellingadverse,<br />
-        title={Modelling Adverse Events with the TOP Phenotyping Framework},<br />
+        title={Modelling Adverse Events with the {TOP} Phenotyping Framework},<br />
         author={Beger, Christoph and Boehmer, Anna Maria and Mussawy, Beate and Redeker, Louisa and Matthies, Franz and Sch{\"a}fermeier, Ralph and H{\"a}rdtlein, Annette and Dreischulte, Tobias and Neumann, Daniel and Uciteli, Alexandr},<br />
-        booktitle={German Medical Data Sciences 2023---Science. Close to People.: Proceedings of the 68th Annual Meeting of the German Association of Medical Informatics, Biometry, and Epidemiology EV (gmds) 2023 in Heilbronn, Germany},<br />
+        doi={10.3233/shti230695},<br />
+        booktitle={German Medical Data Sciences 2023---Science. Close to People},<br />
+        editor={Rainer Röhrig and Niels Grabe and Martin Haag and Ursula Hübner and Ulrich Sax and Carsten Oliver Schmidt and Martin Sedlmayr and Antonia Zapf},<br />
+        organization={German Association of Medical Informatics, Biometry, and Epidemiology e.V. (GMDS)},<br />
+        address={Heilbronn, Germany},<br />
+        series={Studies in Health Technology and Informatics},
         volume={307},<br />
         pages={69--77},<br />
         year={2023},<br />
@@ -65,6 +171,7 @@ DOI: [10.3205/mibe000256](https://dx.doi.org/10.3205/mibe000256)
 </div>
 
 <!-- PAPER 4 -->
+<!-- proceedings subtitle: Proceedings of the 68th Annual Meeting of the German Association of Medical Informatics, Biometry, and Epidemiology e.V. (gmds) 2023 in Heilbronn, Germany -->
 <a id="SHTI230710" />
 <p align="center"><object width="100%" height="630" data="public/papers/shti230710.pdf" frameborder="0" allowfullscreen></object></p>
 *Matthies F, Beger C, Schäfermeier R, Uciteli A*
@@ -83,7 +190,11 @@ GitHub: [Onto-Med/concept-graphs](https://github.com/Onto-Med/concept-graphs)
         @inproceedings{topconceptgraphs,<br />
         title={Concept Graphs: A Novel Approach for Textual Analysis of Medical Documents},<br />
         author={Matthies, Franz and Beger, Christoph and Sch{\"a}fermeier, Ralph and Uciteli, Alexandr},<br />
-        booktitle={German Medical Data Sciences 2023---Science. Close to People.: Proceedings of the 68th Annual Meeting of the German Association of Medical Informatics, Biometry, and Epidemiology EV (gmds) 2023 in Heilbronn, Germany},<br />
+        doi={10.3233/SHTI230710},<br />
+        booktitle={German Medical Data Sciences 2023---Science. Close to People},<br />
+        editor={Rainer Röhrig and Niels Grabe and Martin Haag and Ursula Hübner and Ulrich Sax and Carsten Oliver Schmidt and Martin Sedlmayr and Antonia Zapf},<br />
+        organization={German Association of Medical Informatics, Biometry, and Epidemiology e.V. (GMDS)},<br />
+        address={Heilbronn, Germany},<br />
         volume={307},<br />
         pages={172-179},<br />
         year={2023},<br />
@@ -177,7 +288,7 @@ PMCID: [PMC7751121](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7751121/)
       title={Ontological representation, classification and data-driven computing of phenotypes},<br />
       journal={Journal of Biomedical Semantics},<br />
       volume={11},<br />
-      pages={1-17},<br />
+      pages={1--17},<br />
       language={English},<br />
       }
       </p>
