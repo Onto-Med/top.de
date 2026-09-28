@@ -7,6 +7,97 @@ order: 31
 <link rel="stylesheet" href="public/css/collapse.css">
 ## Papers
 
+### 2026
+
+<a id="s13326-026-00364-7" />
+<p align="center"><object width="100%" height="630" data="public/papers/intro-top.pdf" frameborder="0" allowfullscreen></object></p>
+*Beger C, Strobach D, Schäfermeier R, Matthies F, Höffner K, Uciteli A*
+**Introducing the TOP framework: a novel phenotyping solution for collaborative phenotype algorithm development and application**
+DOI: [10.1186/s13326-026-00364-7](https://doi.org/10.1186/s13326-026-00364-7)
+
+<p align="center"><a href="https://doi.org/10.1186/s13326-026-00364-7">Link</a></p>
+<div class="wrap-collapsible">
+  <input id="collapsible_topframework2026" class="toggle" type="checkbox">
+  <label for="collapsible_topframework2026" class="lbl-toggle">Open BibTeX</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        @article{topframework2026,<br />
+        title={Introducing the {TOP} framework: a novel phenotyping solution for collaborative phenotype algorithm development and application},<br />
+        author={Beger, Christoph and Strobach, Dorothea and Sch{\"a}fermeier, Ralph and Matthies, Franz and H{\"o}ffner, Konrad and Uciteli, Alexandr},<br />
+        journal={Journal of Biomedical Semantics},<br />
+        volume={17},<br />
+        number={1},<br />
+        pages={14},<br />
+        year={2026},<br />
+        doi={10.1186/s13326-026-00364-7}<br />
+        }
+      </p>
+    </div>
+  </div>
+</div>
+
+<a id="shti260386" />
+<p align="center"><object width="100%" height="630" data="public/papers/gfo-light-intro.pdf" frameborder="0" allowfullscreen></object></p>
+*Schäfermeier R, Loebe F, Burek P, Beger C, Höffner K, Matthies F, Herre H, Uciteli A*
+**GFO-Light: A Simplified Top-Level Ontology — Introduction and Biomedical Case Studies**
+DOI: [10.3233/SHTI260386](https://doi.org/10.3233/SHTI260386)
+
+<p align="center"><a href="https://doi.org/10.3233/SHTI260386">Link</a></p>
+<div class="wrap-collapsible">
+  <input id="collapsible_gfolight" class="toggle" type="checkbox">
+  <label for="collapsible_gfolight" class="lbl-toggle">Open BibTeX</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        @incollection{gfolight,<br />
+        title={\{GFO-Light\}: A Simplified Top-Level Ontology --- Introduction and Biomedical Case Studies},<br />
+        author={Sch{\"a}fermeier, Ralph and Loebe, Frank and Burek, Patryk and Beger, Christoph and H{\"o}ffner, Konrad and Matthies, Franz and Herre, Heinrich and Uciteli, Alexandr},<br />
+        booktitle={Opening the Personal Gate between Technology and Health Care},<br />
+        series={Studies in Health Technology and Informatics},<br />
+        volume={336},<br />
+        pages={1187--1191},<br />
+        year={2026},<br />
+        publisher={IOS Press},<br />
+        doi={10.3233/SHTI260386}<br />
+        }
+      </p>
+    </div>
+  </div>
+</div>
+
+<a id="bmjopen-2025-111175" />
+<p align="center"><object width="100%" height="630" data="public/papers/develop-pheno.pdf" frameborder="0" allowfullscreen></object></p>
+*Redeker L, Haerdtlein A, Wermund AM, Mussawy B, Rottenkolber M, Coenen M, Dürr P, Federbusch M, Jüttner CP, Schuster AK, Seidling HM, Uciteli A, Beger C, Neumann D, Loeffler M, Dreischulte T, Schmiedl S*
+**Development of phenotype algorithms for the detection of adverse events in electronic health record data: a multicentre study**
+DOI: [10.1136/bmjopen-2025-111175](https://doi.org/10.1136/bmjopen-2025-111175)
+
+<p align="center"><a href="https://doi.org/10.1136/bmjopen-2025-111175">Link</a></p>
+<div class="wrap-collapsible">
+  <input id="collapsible_adverseevents" class="toggle" type="checkbox">
+  <label for="collapsible_adverseevents" class="lbl-toggle">Open BibTeX</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        @article{adverseevents,<br />
+        title={Development of phenotype algorithms for the detection of adverse events in electronic health record data: a multicentre study},<br />
+        author={Redeker, L. and Haerdtlein, A. and Wermund, A. M. and Mussawy, B. and Rottenkolber, M. and Coenen, M. and D{\"u}rr, P. and Federbusch, M. and J{\"u}ttner, C. P. and Schuster, A. K. and Seidling, H. M. and Uciteli, Alexandr and Beger, Christoph and Neumann, D. and Loeffler, M. and Dreischulte, T. and Schmiedl, S.},<br />
+        journal={BMJ Open},<br />
+        publisher = {British Medical Journal Publishing Group},
+        volume={16},<br />
+        number={6},<br />
+        pages={e111175},<br />
+        year={2026},<br />
+        issn = {2044-6055},<br />
+        URL = {https://bmjopen.bmj.com/content/16/6/e111175},<br />
+        eprint = {https://bmjopen.bmj.com/content/16/6/e111175.full.pdf},<br />
+        doi={10.1136/bmjopen-2025-111175}<br />
+        }
+      </p>
+    </div>
+  </div>
+</div>
+
 ### 2024
 
 <!-- PAPER 9 -->
