@@ -100,12 +100,18 @@ Federal Ministry of Education and Research (BMBF).
 
 # Nachwuchsgruppe TOP
 
-Die Nachwuchsgruppe arbeitet an der Entwicklung eines Ontologie-basierten Frameworks zur Bestimmung und Analyse von Phänotypen (Phänotypisierung).
+Phänotypisierung ist essentiell für die frühzeitige Erkennung von Krankheiten und die Entwicklung gezielter Therapien.
+Die Nachwuchsgruppe „Terminologie- und Ontologie-basierte Phänotypisierung“ (TOP) erarbeitet innovative Ansätze für die datengestützte Phänotypisierung mit fortschrittlichen Methoden der semantischen Modellierung und Datenintegration.
 Dabei bilden die im Rahmen der Medizininformatik-Initiative verfügbaren Daten
 der [Datenintegrationszentren](https://www.medizininformatik-initiative.de/de/konsortien/datenintegrationszentren) die Grundlage.
 Die entwickelten Modelle und Algorithmen werden in einem Webportal veröffentlicht und durch standardisierte Schnittstellen und Formate verfügbar gemacht.
 
+Menschliche Merkmale wie morphologische und physiologische Charakteristika, biochemische Indikatoren sowie Verhaltensprofile werden als Phänotypen bezeichnet.
+Die Phänotypisierung beschäftigt sich mit der ausführlichen und systematischen Erfassung und Auswertung dieser Merkmale und ist zentral für die translationale Forschung sowie die personalisierte Medizin.
+Eine umfassende Phänotypisierung ermöglicht es, komplexe Vorgänge zur Krankheitsentwicklung zu entschlüsseln, heterogene Patientenkohorten in Gruppen einzuteilen sowie individualisierte Therapieansätze.
+
 ## ZIELE DER NACHWUCHSGRUPPE INNERHALB DER [MEDIZININFORMATIK-INITIATIVE (MII)](https://www.medizininformatik-initiative.de/de/)
+
 Ziel des Förderkonzepts Medizininformatik ist die Unterstützung der medizinischen Forschung
 und die Verbesserung der Versorgung von Patientinnen und Patienten durch IT-Lösungen.
 Es soll der Austausch und die Nutzung von Daten aus Krankenversorgung, klinischer und biomedizinischer Forschung
@@ -185,6 +191,20 @@ Dabei wird für jedes Ein-/Ausschlusskriterium eine Abfrage generiert, die mit H
 und ausgeführt wird ([Beger et al., Applied Sciences 2022](publications#app12105214); [Uciteli et al., GMS MIBE 2021](publications#mibe000219)).
 Für SQL und FHIR Search haben wir generische Java-basierte Adapter entwickelt, die mit einem Mapping konfiguriert werden können.
 Die Abfrageergebnisse werden für die Auswertung von Ausdrücken der zusammengesetzten Phänotypen genutzt.
+
+## AUSBLICK
+
+Die Medizininformatik-Initiative (MII) verfolgt das Ziel, Daten aus der klinischen Versorgung digital, zuverlässig und zeitnah für die medizinische Forschung nutzbar zu machen.
+Mittels IT-gestützter Analysen dieser Daten trägt die Forschung zur Erkennung, Behandlung und Prävention von Krankheiten bei.
+Innerhalb der MII sollen klinische Anwendungsfälle die Lücke zwischen Versorgung und Forschung schließen.
+INTERPOLAR ist einer dieser Anwendungsfälle und dient der automatisierten Erkennung medikationsbedingter Risiken und unerwünschter Ereignisse.
+In enger Kooperation mit der Nachwuchsgruppe TOP entstanden dabei mit Hilfe des TOP-Frameworks bereits 48 Modelle, die in den beteiligten Datenintegrationszentren angewendet werden können.
+Einen weiteren Beitrag will die Gruppe für die MII-Methodenplattform GeMTeX leisten.
+Hier wird das größte deutschsprachige, semantisch annotierte Textkorpus erstellt, das durch aufwendige De-Identifikation der wissenschaftlichen Community zur Verfügung stehen wird.
+Zur Vereinfachung der semantischen Annotation sollten relevante Dokumente für bestimmte Forschungsfelder vorausgewählt werden.
+Im TOP-Framework erfolgt dies mittels sogenannter Search-Ontologien und Concept-Cluster.
+Dank intuitiver Modellierung phänotypischen Wissens sowie flexibler Abfrage von Patientenkohorten besitzt das TOP-Framework ein erhebliches Potenzial zur Förderung der biomedizinischen Forschung.
+Seine generische Architektur erlaubt zudem eine vielseitige Nutzung innerhalb der MII und in anderen Anwendungsszenarien.
 
 ## ACKNOWLEDGEMENT
 Gefördert durch das
