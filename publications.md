@@ -5,6 +5,7 @@ order: 31
 ---
 <!-- use css for superduper collapsibles -->
 <link rel="stylesheet" href="public/css/collapse.css">
+
 ## Papers
 
 ### 2026
@@ -382,6 +383,40 @@ PMCID: [PMC7751121](https://www.ncbi.nlm.nih.gov/pmc/articles/pmc7751121/)
       pages={1--17},<br />
       language={English},<br />
       }
+      </p>
+    </div>
+  </div>
+</div>
+
+## Posters
+
+### 2025
+
+<!-- POSTER -->
+<a id="25gmds109" />
+<p align="center"><object width="100%" height="630" data="public/papers/gmds-poster-2025.pdf" frameborder="0" allowfullscreen></object></p>
+*Schäfermeier R, Beger C, Matthies F, Höffner K, Uciteli A*
+**The TOP Framework: A Next-Generation Phenotyping Solution**
+DOI: [10.3205/25gmds109](https://doi.org/10.3205/25gmds109)
+
+<p align="center"><a href="https://doi.org/10.3205/25gmds109">Link</a></p>
+<div class="wrap-collapsible">
+  <input id="collapsible_topframeworkposter2025" class="toggle" type="checkbox">
+  <label for="collapsible_topframeworkposter2025" class="lbl-toggle">Open BibTeX</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <p>
+        @inproceedings{topframeworkposter2025,<br />
+        title={The {TOP} Framework: A Next-Generation Phenotyping Solution},<br />
+        author={Sch{\"a}fermeier, Ralph and Beger, Christoph and Matthies, Franz and H{\"o}ffner, Konrad and Uciteli, Alexandr},<br />
+        booktitle={70. Jahrestagung der Deutschen Gesellschaft f{\"u}r Medizinische Informatik, Biometrie und Epidemiologie e. V. (GMDS)},<br />
+        organization={Deutsche Gesellschaft f{\"u}r Medizinische Informatik, Biometrie und Epidemiologie},<br />
+        publisher={German Medical Science GMS Publishing House},<br />
+        address={D{\"u}sseldorf, Germany},<br />
+        note={DocAbstr. 285},<br />
+        year={2025},<br />
+        doi={10.3205/25gmds109}<br />
+        }
       </p>
     </div>
   </div>
