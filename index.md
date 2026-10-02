@@ -215,6 +215,11 @@ Bundesministerium für Bildung und Forschung (BMBF).
 Text vorher erschienen in IMISE-Broschüre/text originally published in IMISE-brochure<br/>
 *30 Jahre Institut für medizinische Informatik, Statistik und Epidemiologie und seine Wissenschaftsfamilie*, S.77ff.
 
-<a href="https://www.imise.uni-leipzig.de" target="_blank"><img src="public/imise-logo.svg" alt="IMISE Logo" style="float:left;height:3em;"/></a>
-<a href="https://www.uni-leipzig.de/" target="_blank"><img src="public/uni-leipzig-logo.svg" alt="Uni Leipzig Logo" style="float:right;height:8em;"/></a>
-<a href="https://www.bmbf.de/" target="_blank"><img src="public/bmbf-logo.svg" alt="BMBF Logo" style="float:right;height:8em;"/></a>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-end; gap: 2rem;">
+  <a href="https://www.imise.uni-leipzig.de" target="_blank"><img src="public/imise-logo.svg" alt="IMISE Logo" style="max-height: 4em; width: auto;"/></a>
+  <a href="https://www.medizininformatik-initiative.de/" target="_blank"><img src="public/mii-logo.png" alt="MII Logo" style="max-height: 7em; width: auto;"/></a>
+  <a href="https://www.uni-leipzig.de/" target="_blank"><img src="public/uni-leipzig-logo.svg" alt="Uni Leipzig Logo" style="max-height: 7em; width: 14em;"/></a>
+  <a href="https://www.smith.care/" target="_blank"><img src="public/smith-logo.svg" alt="Uni Leipzig Logo" style="max-height: 7em; width: 14em;"/></a>
+  <a href="https://www.bmbf.de/" target="_blank"><img src="public/bmbf-logo.svg" alt="BMBF Logo" style="max-height: 7em; width: auto;"/></a>
+  <a href="https://www.bmftr.bund.de/" target="_blank"><img src="public/bmftr-logo.svg" alt="BMBFTR Logo" style="max-height: 5.9em; width: auto;"/></a>
+</div>
